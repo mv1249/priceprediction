@@ -1,0 +1,3 @@
+# priceprediction
+here,i've made a model which can estimate the price of a soccer player based on the attributes like vision.passing accuracy,finishing,tackling etc...
+here's the site : https://playerpriceprediction.herokuapp.com/
